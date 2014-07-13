@@ -339,3 +339,8 @@ See you tomorrow,
 — Yoshua
 
 
+Conclusion
+===========
+
+Despite initial excitement, these ideas didn't hold up very well in itial experiments. There were a few moderately interesting results, but nothing significant. People at LISA explored a much larger diversity of ideas, and may still be working on some.
+

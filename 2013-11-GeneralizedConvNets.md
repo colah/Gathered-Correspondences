@@ -643,3 +643,9 @@ http://www.socher.org/
 
 Sorry I have to go. Will read the rest later.
 
+
+Conclusion
+===========
+
+I'm still very interested in these ideas. I've refined them a lot since here, and am writing a [series of blog posts](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) providing a much more accessible explanation.
+
